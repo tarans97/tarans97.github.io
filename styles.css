@@ -1,30 +1,37 @@
-div#carousel-1.carousel.slide{
+div#carousel-1.carousel.slide
+	{
   margin-top:-21px;
 }
+
 
 div.row{
   margin-left:0px;
   margin-right:0px;
 }
 
+
 footer#foot{
-  background-color:rgb(0,87,255);
+  background-color:#5386B;
 }
+
 
 nav#n.navbar.navbar-inverse{
   text-decoration-color:white;
-  background-color:#0f5c12;
+  background-color:#05386B;
   text-indent:white;
 }
+
 
 #c{
   vertical-align:baseline;
 }
 
+
 #h3{
   align-content:space-between;
-  color:green;
+  
 }
+
 
 #submit{
   width:100%;
@@ -34,14 +41,16 @@ nav#n.navbar.navbar-inverse{
   text-align:center;
   padding:5px 5px;
   color:white;
-  background-color:#4CAF50;
+  
 }
+
 
 div#row.row{
   margin:-36px;
   margin-top:-22;
   margin-left:-3px;
 }
+
 
 #cap{
   margin-left:100px;
@@ -51,18 +60,21 @@ div#row.row{
   visibility:initial;
 }
 
+
 .dropbtn{
   white-space:10px;
   padding:10px;
   font-size:10px;
   color:white;
-  background-color:green;
+  
 }
+
 
 .dropdown{
   position:relative;
   display:inline-block;
 }
+
 
 .dropdown-content{
   z-index:1;
@@ -72,6 +84,7 @@ div#row.row{
   background-color:white;
   box-shadow:0px 8px 16px 0px;
 }
+
 
 .dropdown-content a{
   color:black;
@@ -83,6 +96,7 @@ div#row.row{
 .dropdown:hover .dropdown-content{
   display:block;
 }
+
 
 .dropdown:hover .dropbtn{
   background-color:#3e8e41;
@@ -96,12 +110,14 @@ div#row.row{
   margin-top:-108px;
 }
 
+
 #hr{
   color:green;
   border-color:green;
   border-width:2px;
   width:100%;
 }
+
 
 #hr1{
   color:green;
@@ -110,6 +126,7 @@ div#row.row{
   width:81%;
   align-self:right;
 }
+
 
 #h4{
   color:green;
@@ -123,22 +140,25 @@ div#row.row{
 
 h1.text-center.text-primary.bg-primary{
   color:white;
-  background:rgb(0,148,255);
+  background:#05386B;
 }
 
+
 nav#n.navbar.navbar-inverse{
-  background:rgb(0,87,255);
+  background:#05386B;
 }
+
 
 #headingback{
 }
 
 #hb{
-  background:rgb(0,87,255);
+  background:#05386B;
 }
 
+
 a.btn.btn-primary.btn-lg{
-  background-color:rgb(0,178,255);
+  background-color:#05386B;
 }
 
 #im{
@@ -147,10 +167,40 @@ a.btn.btn-primary.btn-lg{
 
 .bg-primary{
   color:#fff;
-  background-color:rgb(0,87,255);
+  background-color:#05386B;
 }
 
-input[type="text"], input[type="email"], input[type="tel"]{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input[type="text"], input[type="email"], input[type="tel"]
+{
   width:1100px;
   height:45px;
   border-radius:4px;
@@ -159,10 +209,12 @@ input[type="text"], input[type="email"], input[type="tel"]{
   background-color:rgba(179, 179, 179,0.4);
   padding-left:30px;
 }
+
+
+
 .model
 {
-background-color:#778899;
-padding:99px;
-padding-top:50px;
-padding-bottom:50px;
+background-color:#5CDB95;
+
+
 }
