@@ -52,7 +52,7 @@ footer{
 }
 
 .footer-contacts p a{
-  color:rgb(0,87,255);
+  color:#05386B;
   text-decoration:none;
 }
 
@@ -103,7 +103,7 @@ div.social-links{
   width:35px;
   height:35px;
   cursor:pointer;
-  background-color:#33383b;
+  background-color:#05386B;
   border-radius:2px;
   font-size:20px;
   color:#ffffff;
