@@ -1,0 +1,56 @@
+.field_set{
+  border:1px solid green;
+}
+
+.formtextarea{
+  float:left;
+  width:100px;
+  height:100px;
+}
+
+.submit{
+  clear:left;
+  margin:20px 5px;
+  font-size:15px;
+  text-align:center;
+  padding:5px 5px;
+  color:white;
+  background-color:rgb(0,87,255);
+}
+
+.rgister1{
+  width:300px;
+  height:400px;
+  text-align:center;
+  margin:0 auto;
+  background-color:rgba(140, 177, 217,0.4);
+  margin-top:150px;
+  border-radius:4px;
+}
+
+body{
+  background-repeat:no-repeat;
+  background-position:center;
+  background-attachment:fixed;
+}
+
+#regs{
+  width:500px;
+  height:45px;
+  border-radius:4px;
+  font-size:18px;
+  margin-bottom:20px;
+  background-color:rgba(179, 179, 179,0.4);
+  padding-left:30px;
+}
+
+textarea[name="txt1"]{
+  width:900px;
+  height:90px;
+  border-radius:4px;
+  font-size:18px;
+  margin-bottom:20px;
+  background-color:rgba(179,179,179,0.4);
+  padding-left:30px;
+}
+
