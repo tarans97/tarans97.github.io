@@ -159,4 +159,10 @@ input[type="text"], input[type="email"], input[type="tel"]{
   background-color:rgba(179, 179, 179,0.4);
   padding-left:30px;
 }
-
+.model
+{
+background-color:#778899;
+padding:99px;
+padding-top:50px;
+padding-bottom:50px;
+}
